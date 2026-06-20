@@ -1,0 +1,9 @@
+{
+  "name": "kings-code",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The King's Code - 21 Laws of Power and Success",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
